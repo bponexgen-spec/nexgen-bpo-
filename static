@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head><title>Nexgen BPO</title></head>
-<body><h1>API is running!</h1></body>
-</html>
+index.html
+style.css
+script.js
+logo.png          (your uploaded logo if present)
+submissions.json  (empty [] so backend /contact won’t fail)
